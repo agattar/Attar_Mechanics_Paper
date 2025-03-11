@@ -10,7 +10,7 @@ do
     python Tether-Fac.py
     python Crosslink-Fac.py
     python Crosslink-Cons.py
-    python IndexChanger.py
+    python PullinBeads.py
     mpirun -np 4 lmp_mpi -in in.Nuc11-1
     python DumpRead_FS.py
     python Force.py
