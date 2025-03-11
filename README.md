@@ -1,10 +1,10 @@
-This repository includes simulation and analyses codes for the Attar et al, 2025.
+This repository includes simulation and analysis codes for Attar et al., 2025.
 
-Example folder contains the example data file and input file required for running the simulation.
+The Example folder contains the example data file and input file required to run the simulation.
 
-Analysis folder includes the scripts to generate the plots in the paper.
+The Analysis folder includes scripts to generate the plots in the paper.
 
-Data file is generated as described in our previous work. Please, refer to our previous work to generate the data file. 
+The data file is generated as described in our previous work. Please refer to our previous work for instructions on generating the data file.
 
 https://github.com/agattar/Attar_ElasticShellModel
 
